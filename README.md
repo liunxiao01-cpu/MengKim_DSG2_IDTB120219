@@ -1,2 +1,0 @@
-# my-website
-Ex3 
