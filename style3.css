@@ -1,0 +1,21 @@
+/* TODO */
+button {
+    margin: 10px;
+    border-radius: 30px;
+    border: None;
+    padding: 10px;
+    background-color: rgb(231, 6, 189);
+    color: white;
+}
+
+button:hover{
+    margin: 10px;
+    background-color: purple;
+    border-color: purple;
+    height: 200px;
+    font-size: 30px;
+    width: 300px;
+    color: white;
+    font-weight: 800;
+    transition: 2s;
+}
